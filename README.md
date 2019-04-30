@@ -2,6 +2,14 @@
 
 A Flutter chatting application.
 
+# What done
+1. Login with Google account √
+2. User has personal nickname, signature and avatar. √
+3. <b>Update</b> information is allowed! Your friend can see your update instantly.√
+4. Chat with friends √
+5. Send text, sticker as well as photo! √
+6. Share our application. √
+
 ## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
